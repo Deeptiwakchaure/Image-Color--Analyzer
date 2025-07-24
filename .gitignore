@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sln
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+._*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test artifacts
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+__pycache__/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.swp
+
+# Editor files
+*.sublime-project
+*.sublime-workspace
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Local configuration files
+*.local
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Webpack files
+webpack.config.js
+webpack.prod.conf.js
