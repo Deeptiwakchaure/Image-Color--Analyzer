@@ -1,5 +1,8 @@
 # Image-Color--Analyzer
 A web application that extracts a color palette from uploaded images based on their mood and vibe. The app uses k-means clustering to identify the most representative colors in an image and allows users to interact with these colors by dragging color indicators around the image to sample new colors.
+## 🖼️ Demo
+
+![App Demo](/demo-img.png)
 
 Features
 Color Extraction: Automatically extracts 5 dominant colors from uploaded images
