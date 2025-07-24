@@ -15,7 +15,7 @@ bash
 Collapse
 Copy
 1
-git clone https://github.com/yourusername/mood-palette.git
+git clone https://github.com/Deeptiwakcaure/Image-Color--Analyzer.git
 Install dependencies:
 bash
 
